@@ -148,8 +148,6 @@ Shows distribution of maximum cycle lengths across random permutations, with thr
 
 ## License
 
-This project is licensed under the MIT License.
+This project is licensed under the Apache 2.0 License.
 
 ---
-
-⚡ Would you like me to also add a **"How to explain this project in a data-science interview"** section at the bottom of the README? It could frame the project as an example of simulation, probability, and visualization skills.
