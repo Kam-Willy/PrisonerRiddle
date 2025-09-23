@@ -61,8 +61,8 @@ By running large-scale Monte Carlo simulations, we estimate survival probabiliti
 Clone the repository:
 
 ```bash
-git clone https://github.com/Kam-Willy/PrisonersRiddle.git
-cd PrisonersRiddle
+git clone https://github.com/Kam-Willy/100PrisonersRiddle.git
+cd 100PrisonersRiddle
 ```
 
 Install dependencies:
@@ -76,7 +76,6 @@ Install dependencies:
 * seaborn
 * networkx
 * plotly
-* pyvis *(optional, for HTML interactive graphs)*
 
 ---
 
@@ -89,7 +88,7 @@ You can run the full simulation from the command line:
 
 ### Key Parameters
 
-Inside `100PrisonerRiddle.py` you can adjust:
+Inside `100PrisonerRiddle.ipynb` you can adjust:
 
 ```python
 N_PRISONERS = 100       # number of prisoners
